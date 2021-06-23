@@ -1,0 +1,23 @@
+{
+  "name": "redis-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ioredis": "4.27.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battila7/redis-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/battila7/redis-fun/issues"
+  },
+  "homepage": "https://github.com/battila7/redis-fun#readme"
+}
